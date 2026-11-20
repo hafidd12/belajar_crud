@@ -6,13 +6,15 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Data Mahasiswa</title>
-    <link rel="stylesheet" href="/css/style.css">
+    <link rel="stylesheet" href="css/style.css">
 </head>
 
 <body>
-    <h2>Daftar Mahasiswa</h2>
-    <a href="create.php">+ Tambah Data</a>
-    <br><br>
+    <div class="container">
+        <h2>Daftar Mahasiswa</h2>
+        <a href="create.php">Tambah Data</a>
+    </div>
+    <br>
     <table border="1">
         <th>No</th>
         <th>Nama</th>
