@@ -12,7 +12,7 @@
 <body>
     <div class="container">
         <h2>Daftar Mahasiswa</h2>
-        <a href="create.php">Tambah Data</a>
+        <button><a href="create.php" class="btn">Tambah Data</a></button>
     </div>
     <br>
     <table border="1">

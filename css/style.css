@@ -1,0 +1,31 @@
+* {
+    font-family: 'Poppins', sans-serif;
+    text-align: center;
+}
+
+.container h2 {
+    font-size: 30;
+}
+
+.container button, btn {
+    background-color: #3498db;
+    border-radius: 1.5rem;
+    padding: 6px;
+    cursor: pointer;
+    border: none;
+    height: 2.5rem;
+    width: 8rem;
+    font-size: 15px;
+}
+
+a {
+    text-decoration: none;
+}
+
+table {
+    margin: 15px auto;
+    border-collapse: collapse;
+    width: 60%;
+    text-align: center;
+    padding: 12px;
+}
